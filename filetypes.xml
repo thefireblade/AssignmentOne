@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Basic Method" type="CLASS" />
+      <mapping pattern="Javascript tutorial" type="HTML" />
+      <mapping pattern="Derivative Calculator" type="JAVA" />
+      <mapping pattern="Basic Mehtod" type="JAVA" />
+      <mapping pattern="BasicMethod" type="JAVA" />
+      <mapping pattern="ReadMe" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
